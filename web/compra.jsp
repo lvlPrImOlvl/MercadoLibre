@@ -1,6 +1,6 @@
 <%-- 
-    Document   : getDatos
-    Created on : 18/10/2015, 10:38:15 PM
+    Document   : compra
+    Created on : 18/10/2015, 10:41:39 PM
     Author     : primo
 --%>
 
